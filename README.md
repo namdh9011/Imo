@@ -1,2 +1,25 @@
-# Imo
-[이번에모먹지? (이모) Project] - 빅데이터와 알고리즘을 활용한 맛집 추천 서비스
+# [이번에모먹지? (이모) Project] - 빅데이터와 알고리즘을 활용한 맛집 추천 서비스
+
+![image1](https://github.com/namdh9011/Imo/blob/main/images/Imo1.PNG)
+![image2](https://github.com/namdh9011/Imo/blob/main/images/Imo2.PNG)
+![image3](https://github.com/namdh9011/Imo/blob/main/images/Imo3.PNG)
+![image4](https://github.com/namdh9011/Imo/blob/main/images/Imo4.PNG)
+![image5](https://github.com/namdh9011/Imo/blob/main/images/Imo5.PNG)
+![image6](https://github.com/namdh9011/Imo/blob/main/images/Imo6.PNG)
+![image7](https://github.com/namdh9011/Imo/blob/main/images/Imo7.PNG)
+![image8](https://github.com/namdh9011/Imo/blob/main/images/Imo8.PNG)
+![image9](https://github.com/namdh9011/Imo/blob/main/images/Imo9.PNG)
+![image10](https://github.com/namdh9011/Imo/blob/main/images/Imo10.PNG)
+![image11](https://github.com/namdh9011/Imo/blob/main/images/Imo11.PNG)
+![image12](https://github.com/namdh9011/Imo/blob/main/images/Imo12.PNG)
+![image13](https://github.com/namdh9011/Imo/blob/main/images/Imo13.PNG)
+![image14](https://github.com/namdh9011/Imo/blob/main/images/Imo14.PNG)
+![image15](https://github.com/namdh9011/Imo/blob/main/images/Imo15.PNG)
+![image16](https://github.com/namdh9011/Imo/blob/main/images/Imo16.PNG)
+![image17](https://github.com/namdh9011/Imo/blob/main/images/Imo17.PNG)
+![image18](https://github.com/namdh9011/Imo/blob/main/images/Imo18.PNG)
+![image19](https://github.com/namdh9011/Imo/blob/main/images/Imo19.PNG)
+![image20](https://github.com/namdh9011/Imo/blob/main/images/Imo20.PNG)
+![image21](https://github.com/namdh9011/Imo/blob/main/images/Imo21.PNG)
+![image22](https://github.com/namdh9011/Imo/blob/main/images/Imo22.PNG)
+
